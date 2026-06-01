@@ -1,0 +1,17 @@
+[33mcommit 9d94ed018160708b17ce3a9331cfea819ad91575[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: sandrasanz12 <sanz37414@gmail.com>
+Date:   Tue Apr 21 16:43:45 2026 +0200
+
+    añade clase Main con demostracion de calculadora
+
+[33mcommit fe843d6edc948c2fe3da267884ced84dd19c91d5[m
+Author: sandrasanz12 <sanz37414@gmail.com>
+Date:   Tue Apr 21 16:42:06 2026 +0200
+
+    Calculadora añade el metodo multiplicar
+
+[33mcommit e5522e4a20843317dd59ba19ee763a86cac6c6c8[m
+Author: sandrasanz12 <sanz37414@gmail.com>
+Date:   Tue Apr 21 16:39:46 2026 +0200
+
+    Inicio del proyecto: Calculadoa y estructura básica
