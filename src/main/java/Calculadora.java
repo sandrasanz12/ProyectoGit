@@ -12,4 +12,6 @@ public class Calculadora {
     public int multiplicar(int a, int b) { 
         return a * b; 
     }
+
+    System.out.println("Estamos estudiando para el examen ");
 }
